@@ -1,3 +1,3 @@
-# API_LIVRO
+# Api_book
 
-<p> Uma api criado em python de consulta, criação, edição e exclusão de livros</p>
+<p>Para meu treinamento, criei uma api na linguagem python com as funcionalidades de consulta, criação, edição e exclusão de livros.</p>
